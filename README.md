@@ -1,1 +1,1 @@
-# Qishi_Algo2
+# Qishi Algorithm Study Group 2
